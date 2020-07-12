@@ -1,5 +1,5 @@
 # Data-Linkage-Classification-Project
-**node** All code are in Python 3 and by me, completed for COMP20008 - Elements of Data Processing Project 2 in 2020 Semester 1 at The University of Melbourne.
+**note**: All code are in Python 3 and by me, completed for COMP20008 - Elements of Data Processing Project 2 in 2020 Semester 1 at The University of Melbourne.
 
 ## Overview
 For this project, you will perform a data linkage on two real-world datasets (Part 1) and explore different classification algorithms (Part 2).
